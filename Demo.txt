@@ -15,6 +15,8 @@ git tag Demotag
 
 git tag -d Demotag
 
+git commnd
+
 git tag 
 
 git help log 
