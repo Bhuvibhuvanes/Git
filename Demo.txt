@@ -9,7 +9,11 @@ git commit -am "one more command added"
 
 git config --global alias.hist "log --pretty=format:'%h %ad | %s%d[%an]' --graph --date=short"
 
-git hist
+git show head
+
+git tag Demotag
+
+git tag -d Demotag
 
 git tag 
 
