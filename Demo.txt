@@ -6,3 +6,9 @@ git restore filename.extension
 git restore --staged Demo.txt
 
 git commit -am "one more command added"
+
+git config --global alias.hist "log --pretty=format:'%h %ad | %s%d[%an]' --graph --date=short"
+
+git hist
+
+git help log 
