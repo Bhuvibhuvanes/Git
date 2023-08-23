@@ -1,5 +1,8 @@
+
 java is an object oriented language
 
 git restore filename.extension
 
 git restore --staged Demo.txt
+
+git commit -am "one more command added"
