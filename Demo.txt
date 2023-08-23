@@ -20,3 +20,5 @@ git commnd
 git tag 
 
 git help log 
+
+git show v1.0
