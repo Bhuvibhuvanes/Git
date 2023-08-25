@@ -39,5 +39,5 @@ git commit --amend -m "git new message"
 
 git show v1.0
 
-git
+git new
 
