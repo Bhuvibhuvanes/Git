@@ -39,6 +39,7 @@ git commit --amend -m "git new message"
 
 git show v1.0
 
+
 Automatic mearch :
 main branch -sub branch :sub branch all commit added to main branch
 
@@ -49,5 +50,6 @@ merge conflict:
 error creation how to rectify it
 
 git branch -D Learning (force to delete a branch)
+
 
 
