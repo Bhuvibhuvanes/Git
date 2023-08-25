@@ -38,6 +38,5 @@ git branch -b newbranchname
 
 git commit --amend -m "git new message"
 
-
 git show v1.0
 
