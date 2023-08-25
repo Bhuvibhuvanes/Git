@@ -39,5 +39,15 @@ git commit --amend -m "git new message"
 
 git show v1.0
 
-git
+Automatic mearch :
+main branch -sub branch :sub branch all commit added to main branch
+
+Fast forward:
+two file have ,one file commit in sub branch and another file commit in main brnch is called fast forward
+
+merge conflict:
+error creation how to rectify it
+
+git branch -D Learning (force to delete a branch)
+
 
