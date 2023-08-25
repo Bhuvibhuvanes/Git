@@ -22,3 +22,18 @@ git tag
 git help log 
 
 git show v1.0
+
+git switch branchname
+
+git checkout branchname
+
+git mv oldfilename.extension newfilename.extension
+
+git restore newfilename.extension
+
+git diff hascode head
+
+git branch -b newbranchname
+
+git commit --amend -m "git new message"
+
