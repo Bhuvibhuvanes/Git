@@ -21,7 +21,6 @@ git tag
 
 git help log 
 
-<<<<<<< HEAD
 git show v1.0
 
 git switch branchname
@@ -39,4 +38,6 @@ git branch -b newbranchname
 git commit --amend -m "git new message"
 
 git show v1.0
+
+git
 
